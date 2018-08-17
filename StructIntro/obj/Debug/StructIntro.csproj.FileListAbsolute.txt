@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\bin\Debug\StructIntro.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\bin\Debug\StructIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\bin\Debug\StructIntro.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\obj\Debug\StructIntro.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\obj\Debug\StructIntro.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\obj\Debug\StructIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\StructIntro\StructIntro\obj\Debug\StructIntro.pdb
